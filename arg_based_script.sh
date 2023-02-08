@@ -1,5 +1,5 @@
 # Maintainer: Anil Soni
-# This is a simple shell script to manage web app with command line arguments
+# This is a simple shell script to manage web app with user input based arguments
 
 #!/bin/bash
 user_id=$(id -u)
